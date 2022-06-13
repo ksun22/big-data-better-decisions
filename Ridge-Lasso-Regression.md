@@ -7,7 +7,7 @@ Insurance Data
 Ridge Regression
 
 ``` r
-# Write your code here
+# Based on data from Business Data Science by Matt Taddy
 #load package for ridge/lasso commands
 library(glmnet)
 ```
